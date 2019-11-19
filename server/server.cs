@@ -8,7 +8,6 @@ using System.Diagnostics;
 using System.Windows.Forms;
 using System.Linq;
 using System.Xml.Linq;
-
 using TcpNet.Net.Sockets;
 using System.Text;
 

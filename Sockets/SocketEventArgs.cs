@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 /// <summary>
 /// Socket事件参数

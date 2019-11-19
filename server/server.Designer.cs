@@ -1,4 +1,4 @@
-﻿using Wodsoft.Net.Sockets;
+﻿using TcpNet.Net.Sockets;
 using System.Text;
 
 //INSTANT C# NOTE: Formerly VB project-level imports:

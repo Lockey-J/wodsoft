@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Net.Sockets;
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 	internal class SocketAsyncState
 	{

@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Net;
 using System.Threading;
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 	/// <summary>
 	/// TCP监听端

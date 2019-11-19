@@ -8,7 +8,7 @@ using System.Threading;
 using System.IO;
 using System.Net.Security;
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 	/// <summary>
 	/// TCP客户端

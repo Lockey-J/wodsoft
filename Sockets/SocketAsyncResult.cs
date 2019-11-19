@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 	/// <summary>
 	/// Socket异步操作状态

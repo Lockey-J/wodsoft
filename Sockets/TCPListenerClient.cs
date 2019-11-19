@@ -7,7 +7,7 @@ using System.IO;
 using System.Net.Security;
 using System.Threading;
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 	public class TCPListenerClient : SocketBase
 	{

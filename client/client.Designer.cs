@@ -1,4 +1,4 @@
-﻿using Wodsoft.Net.Sockets;
+﻿using TcpNet.Net.Sockets;
 
 //INSTANT C# NOTE: Formerly VB project-level imports:
 using System;
@@ -63,7 +63,7 @@ namespace client
             this.TextBox1.Name = "TextBox1";
             this.TextBox1.Size = new System.Drawing.Size(142, 21);
             this.TextBox1.TabIndex = 1;
-            this.TextBox1.Text = "47.106.92.231";
+            this.TextBox1.Text = "47.106.92.233";
             // 
             // TextBox2
             // 

@@ -8,7 +8,7 @@ using System.Net.Sockets;
 using System.Text;
 
 
-namespace Wodsoft.Net.Sockets
+namespace TcpNet.Net.Sockets
 {
 	public class SocketBase : ISocket, IDisposable
 	{

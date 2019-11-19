@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using System.Linq;
 using System.Xml.Linq;
 
-using Wodsoft.Net.Sockets;
+using TcpNet.Net.Sockets;
 using System.Text;
 
 namespace server

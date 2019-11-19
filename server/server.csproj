@@ -112,9 +112,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Wodsoft.Net.csproj">
+    <ProjectReference Include="..\TcpNet.csproj">
       <Project>{A52E8AC5-2B3D-4518-8E52-D2BB688A66D8}</Project>
-      <Name>Wodsoft.Net</Name>
+      <Name>TcpNet</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

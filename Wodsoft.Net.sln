@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wodsoft.Net", "Wodsoft.Net.csproj", "{A52E8AC5-2B3D-4518-8E52-D2BB688A66D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpNet", "TcpNet.csproj", "{A52E8AC5-2B3D-4518-8E52-D2BB688A66D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{C17CA525-0F2A-4F5E-9C93-42E6D2250C56}"
 EndProject
@@ -30,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B08888-9128-4B1A-A9B7-BDE1909854C9}
 	EndGlobalSection
 EndGlobal

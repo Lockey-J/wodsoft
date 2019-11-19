@@ -8,7 +8,7 @@ using System.Diagnostics;
 using System.Windows.Forms;
 using System.Linq;
 using System.Xml.Linq;
-using Wodsoft.Net.Sockets;
+using TcpNet.Net.Sockets;
 
 namespace client
 {
